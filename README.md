@@ -1,2 +1,13 @@
-# Maji_Ndogo_water
-🌍 Data for Impact: Solving Maji Ndogo’s Water Crisis  This project dives into a 60,000-record database to uncover data-driven solutions for clean water access in Maji Ndogo.  🔍  Exploration of water sources, visit patterns, and pollution data → SQL-powered insights using SELECT, LIKE, and string operations  
+## 📊 Project: Maji Ndogo Water Crisis Analysis
+
+This repository contains data exploration and SQL-to-Python analysis of 60,000 water records to help solve Maji Ndogo's water crisis.
+
+### 📁 Files:
+- `Part 1_Maji.ipynb` — Main Jupyter Notebook with queries, visualizations, and insights.
+
+### ▶️ How to Run:
+1. Install Jupyter: `pip install jupyter`
+2. Clone this repo
+3. Run: `jupyter notebook Part 1_Maji.ipynb`
+
+💡 *Built under the guidance of Chidi Kunto, inspired by Aziza Naledi’s mission.*
